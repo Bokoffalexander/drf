@@ -1,0 +1,12 @@
+<p> Items </p>
+
+
+<ul>
+    
+    {% for item in items %}
+        <li> {{ item.name }} </li>
+    {% empty %}
+        <li> No items yet </li>
+    {% endfor %}
+    
+</ul>
