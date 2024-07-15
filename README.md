@@ -1,6 +1,6 @@
-# rest_simple_Django_Rest_Framework
+# rest API Django DRF
 
-DRF-API: (views -> urls -> models -> serializers)
+## DRF-API: (views -> urls -> models -> serializers)
 
 Пример простого проекта DRF: 
 
@@ -8,13 +8,13 @@ DRF-API: (views -> urls -> models -> serializers)
 
 Можно получить или отправить данные через API.
 
-# Запустить
+## Запустить
 
 source venv/bin/activate && 
 
 python manage.py runserver 109.71.247.68:8005 &
 
-# Переходим в браузере
+## Переходим в браузере
 
 http://109.71.247.68:4005/       //это получить - GET
 
