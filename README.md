@@ -1,5 +1,7 @@
 # rest API Django DRF
 
+# http://109.71.247.68:8003 (кликабельно)
+
 ## DRF-API: (views -> urls -> models -> serializers)
 
 Пример простого проекта DRF: 
